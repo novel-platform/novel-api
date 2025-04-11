@@ -1,1 +1,2 @@
-# novel-api
+# novel-api-django
+
